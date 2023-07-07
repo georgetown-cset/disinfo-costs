@@ -1,0 +1,42 @@
+Russia
+2.48MB + 1.11MB + 14.3MB + 36.6MB + 180KB + 353MB + 120MB + 1.2GM
+5M tweets
+
+China
+2.57MB + 3.46MB + 73.2MB + 913MB + 158MB + 169MB
+3.88M tweets
+
+Turkey
+5GB
+14.7M tweets
+
+Venezuela
+82.07MB + 64MB + 1GB + 136MB
+3.77M tweets
+
+Iran
+285.2MB + 292KB + 316MB + 318MB + 46MB + 717MB + 168MB
+5.45M tweets
+
+Cuba
+666MB
+1.95M tweets
+
+Saudi Arabia
+24KB + 4.3GB + 38KB (+ 1.4GB)
+16.76M tweets
+
+Egypt
+1GB (+ 1.4GB)
+7M tweets
+
+UAE
+227MB + 30MB (+ 1.4GB)
+4.87M tweets
+
+Serbia 
+5.7GB
+16.76M tweets
+
+Saudi Arabia / Egypt / UAE
+4.2GB
